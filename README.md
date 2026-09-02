@@ -9,7 +9,7 @@ The project transforms raw customer data into **actionable retention intelligenc
 ## 🚀 Live Application
 
 🔗 **Try the deployed application:**  
-[Customer Churn Intelligence App](YOUR_STREAMLIT_APP_URL)
+[Customer Churn Intelligence App](https://ai-powered-customer-churn-intelligence.streamlit.app/)
 
 Users can enter customer information and instantly receive:
 - Churn probability
